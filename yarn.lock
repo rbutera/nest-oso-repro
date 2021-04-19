@@ -4142,6 +4142,11 @@ neo-async@^2.6.2:
   resolved "https://registry.yarnpkg.com/neo-async/-/neo-async-2.6.2.tgz#b4aafb93e3aeb2d8174ca53cf163ab7d7308305f"
   integrity sha512-Yd3UES5mWCSqR+qNT93S3UoYUkqAZ9lLg8a7g9rimsWmYGK8cVToA4/sF3RrshdyV3sAGMXVUmpMYOw+dLpOuw==
 
+nestjs-oso@^1.2.1:
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/nestjs-oso/-/nestjs-oso-1.2.1.tgz#c18d9b211f3bbaece60aa6a3427f71a93f0ad1e8"
+  integrity sha512-5yo1nxdqlelV6oSgNZrB0VIg0oO3WgbhEzwdujbGax+kWjLTkS6ql4zCfvfN7EXlnU8KODbr3Ke+EiZGZrFubg==
+
 nice-try@^1.0.4:
   version "1.0.5"
   resolved "https://registry.yarnpkg.com/nice-try/-/nice-try-1.0.5.tgz#a3378a7696ce7d223e88fc9b764bd7ef1089e366"
@@ -4361,6 +4366,11 @@ os-tmpdir@~1.0.2:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/os-tmpdir/-/os-tmpdir-1.0.2.tgz#bbe67406c79aa85c5cfec766fe5734555dfa1274"
   integrity sha1-u+Z0BseaqFxc/sdm/lc0VV36EnQ=
+
+oso@^0.12.0:
+  version "0.12.0"
+  resolved "https://registry.yarnpkg.com/oso/-/oso-0.12.0.tgz#a1320447b845e110bb7472f71ba19947f783f78c"
+  integrity sha512-7sLjmZlTgw2YuYf2GS3bcKKIlLan7Dm0plJkejG8n5kkxUuKgr4OQb8mmaD3pIsuExE16DX87vFsiPNvfXsaIg==
 
 p-each-series@^2.1.0:
   version "2.2.0"
